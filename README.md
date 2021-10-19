@@ -1,4 +1,4 @@
-## Nop Obfuscation
+## nop obfuscation
 
 Method to obfuscate assembly of C/C++ PE file 
 
